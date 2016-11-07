@@ -454,7 +454,8 @@ input, textarea, select {
 	line-height: 1.5em;
 }
 .widget ul {
-	list-style: circle inside;
+	list-style: circle outside;
+	margin-left: 0.8em;
 	color: #555;
 }
 .widget ul .children {
