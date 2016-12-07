@@ -3,4 +3,4 @@ My personal version of the [MOMENTOUS-Theme](https://themezee.com/de/themes/mome
 
 ![Momentous Screenshoot](https://themezee.com/wp-content/uploads/2014/11/screenshot-800x600.png)
 
-Used on my blog [Hani's Omnium Gatherum](http://blog.hani.ibrahim.de).
+Used on my blog [Hani's Omnium Gatherum](http://blog.hani.ibrahim.de) soon.
