@@ -1404,6 +1404,30 @@ embed, iframe, object, video {
 		font-weight: bold;
 	}
 
+/* Bildnachweis */
+.bildnachweis {
+    border: 1px solid #AAA;
+    background: none repeat scroll 0 0 #F9F9F9;
+    padding: 5px;
+    margin-top: 24px;
+}
+.bildnachweis-titel {
+    font-weight: bold;
+    font-size: 100%;
+    margin-bottom: 10px;
+}
+.bildnachweis-text{
+    font-size: 70%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.bildnachweis-link {
+    color: #767676;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none !important;
+}
+
 /*============================ MEDIA QUERIES ============================*/
 
 /* Small screens | <1120px */
